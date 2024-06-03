@@ -1,0 +1,151 @@
+.input-field {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .input-field .first-name {
+    color: rgba(8, 9, 10, 1);
+    font-family: "HelveticaNeue-Medium", Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing:0.32px;
+    line-height: 150%;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .input-field .frame-25 {
+    border: 1px solid;
+    border-color:rgba(206, 212, 218, 1);
+    border-radius: 4px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .input-field .first-name-2 {
+    color: rgba(109, 116, 122, 1);
+    font-family: "NotoSans-Regular", Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing:0px;
+    line-height:150%;
+  }
+  
+  .input-field .frame-26 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 4px;
+    margin-bottom: -1px;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .input-field .text-wrapper-6 {
+    color: rgba(109, 116, 122, 1);
+    font-family: "NotoSans-Regular", Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing:0px;
+    line-height:150%;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .input-field .chevron-down-3 {
+    height: 16px;
+    position: relative;
+    width: 16px;
+  }
+  
+  .input-field .text-wrapper-7 {
+    color: rgba(109, 116, 122, 1);
+    font-family: "NotoSans-Regular", Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing:0px;
+    line-height:150%;
+    margin-top: -2px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  textarea{
+    height: 120px;
+    padding: 2%;
+    outline: none;
+    resize: none;
+    color: black;
+    width: 624px;
+  }
+  
+  .input-field .property-1-10-message{
+    height: 120px;
+    width: 624px;
+  }
+  
+  .input-field .property-1-10-half {
+    align-items: center;
+    display: flex;
+    gap: 16px;
+    height: 48px;
+    padding: 13px 16px;
+    width: 204px;
+  }
+  
+  .input-field .property-1-10-default input {
+    align-items: center;
+    display: flex;
+    gap: 16px;
+    color: black;
+    height: 48px;
+    padding: 13px 16px;
+    width: 300px;
+  }
+  
+  .input-field .property-1-10-phone {
+    align-items: center;
+    display: flex;
+    gap: 12px;
+    height: 48px;
+    padding: 13px 16px;
+    width: 300px;
+  }
+  
+  .input-field .frame-25.property-1-10-message .first-name-2 {
+    /* left: 16px; */
+    position: absolute;
+    /* top: 11px; */
+    width: 376px;
+  }
+  
+  .input-field .frame-25.property-1-10-half .first-name-2 {
+    margin-top: -2px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .input-field .frame-25.property-1-10-default .first-name-2 {
+    margin-top: -2px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .input-field .frame-25.property-1-10-phone .first-name-2 {
+    position: relative;
+    width: fit-content;
+  }
+  

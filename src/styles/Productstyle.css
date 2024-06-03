@@ -1,0 +1,113 @@
+.products {
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0px 4px 12px #0000000f;
+  height: 420px;
+  overflow: hidden;
+  position: relative;
+  width: 312px;
+}
+
+.products .document-management {
+  color: rgba(109, 116, 122, 1);
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing:0px;
+  line-height:150%;
+  left:24px;
+  position: absolute;
+  top: 303px;
+  width: 264px;
+}
+
+.products .frame-14 {
+  height: 20px;
+  left: 24px;
+  position: absolute;
+  top: 376px;
+  cursor: pointer;
+  width: 110px;
+}
+
+.products .text-wrapper-4 {
+  color:rgba(20, 109, 250, 1);
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 20px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0px;
+}
+
+.products .arrow-right {
+  height: 16px;
+  left: 94px;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.products .frame-15 {
+  align-items: center;
+  display: inline-flex;
+  gap: 16px;
+  left: 24px;
+  position: absolute;
+  top: 244px;
+}
+
+.products .DMS-2 {
+  color: rgba(8, 9, 10, 1);
+  font-family: "Helvetica Neue-Medium", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0.48px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.products .pexels-daniel-frank {
+  height: 210px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.products .product-card-logos {
+  height: 48px !important;
+  position: relative !important;
+  width: 48px !important;
+}
+
+.products .SLIMS {
+  text-align: center;
+}
+
+.products .DMS {
+  text-align: center;
+}
+
+.products .property-1-SLIMS {
+  object-fit: cover;
+  width: 315px;
+}
+
+.products .property-1-DMS {
+  object-fit: cover;
+  width: 315px;
+}
+
+.products .property-1-BI-MIS {
+  object-fit: cover;
+  width: 315px;
+}
+
+.products .property-1-edukares {
+  width: 312px;
+}

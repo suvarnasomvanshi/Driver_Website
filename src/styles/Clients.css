@@ -1,0 +1,121 @@
+.clients {
+  background-color: #ffffff;
+  position: relative;
+}
+
+/* sections */
+
+.clients .compliance-header {
+  color: #ffffff;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  line-height: 70px;
+  margin-top: -1px;
+  position: relative;
+  white-space: wrap;
+  font-size: 48px;
+  font-style: normal;
+}
+
+.clients .compliance-header-2 {
+  color: #ffffff;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.24px;
+  line-height: 150%;
+  position: relative;
+  width: 809px;
+  margin: 20px 0px;
+}
+
+.clients .header-button {
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  display: flex;
+  width: 264px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  gap: 36px;
+  background: #fff;
+  color: #146dfa;
+  border-radius: 6px;
+}
+
+.clients .sub-header-2 {
+  color: #3c4043;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 0.4px;
+}
+
+.clients .client-card {
+  display: flex;
+  width: 225px;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 12px;
+  border: 1px solid #ebedf0;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.clients .sub-header-4 {
+  font-family: "NotoSans-Regular", Helvetica;
+  color: #6d747a;
+  font-family: Helvetica Neue;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 0.32px;
+}
+
+.clients .client-review {
+  color: #3c4043;
+  font-family: Helvetica Neue;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0.4px;
+}
+
+.clients .client-name {
+  color: #3c4043;
+  font-family: Noto Sans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 150%;
+}
+
+.clients .client-org-location {
+  color: #3c4043;
+  font-family: Noto Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.clients .smooth-scroll {
+  transition: scrollLeft 0.8s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.clients .smooth-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.clients .removeScrollDefaultStyling::-webkit-scrollbar {
+  display: none;
+}

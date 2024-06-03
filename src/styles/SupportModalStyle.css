@@ -1,0 +1,53 @@
+.support-header {
+  color: #08090a;
+  text-align: center;
+  /* font-family: Helvetica Neue; */
+  font-family:  Helvetica !important;
+  /* Arial,  */
+  /* "Lucida Grande",  */
+  /* sans-serif; */
+  /* font-size: 20px; */
+  font-weight: 550 !important;
+  line-height: 30px;
+  letter-spacing: 0.4px;
+  cursor: text;
+}
+
+.support-backdrop {
+  background: rgba(0, 0, 0, 0.38);
+}
+
+.support-card{
+  border-radius: 12px;
+}
+
+.support-options-text {
+  color: #3c4043;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+#we-support-text{
+  font-family:  Helvetica !important;
+  font-size: 36px;
+}
+
+/* Assuming you are using a CSS module */
+#buttonhover:hover {
+  color: #3C4043 !important; /* Keep the color the same on hover */
+  border-bottom: 2px solid #4d7eed !important;
+  /* background-color: red; */
+  margin-top: 2px;
+  /* padding-bottom: 2px; */
+}
+
+#buttonhover{
+  color: #6D747A !important; /* Keep the color the same on hover */
+  /* background-color:red; */
+  /* margin-top: 2px; */
+  /* padding-bottom: 2px; */
+}

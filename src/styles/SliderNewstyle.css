@@ -1,0 +1,293 @@
+.slider-new {
+  height: 920px;
+  overflow: hidden;
+  position: relative;
+  width:100%;
+}
+
+.slider-new .div {
+  height: 920px;
+  position: absolute;
+  top: 0;
+  width:100%;
+}
+
+.slider-new .class {
+  left: 15244px !important;
+  top: -18339px !important;
+}
+
+.slider-new .class-2 {
+  left: 16684px !important;
+  top: -19647px !important;
+}
+
+.slider-new .vector-5 {
+  left: 1350px !important;
+  width: 1px !important;
+}
+
+.slider-new .vector-wrapper {
+  /* background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/pexels-artem-podrez-5878523-1.png); */
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 920px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width:100%;
+}
+
+.slider-new .vector-8-4 {
+  height: 920px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width:100% !important;
+}
+
+.slider-new .rectangle-5 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.slider-new .frame-2 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 284px;
+  position: absolute;
+  top: 273px;
+}
+
+.slider-new .div-2 {
+  color: #ffffff;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 60px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.slider-new .div-3 {
+  color: #ffffff;
+  font-family: "HelveticaNeue-Regular", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing:0.4px;
+  line-height: 150%;
+  position: relative;
+  text-align: center;
+  width: 872px;
+}
+
+.slider-new .overlap {
+  height: 920px;
+  position: absolute;
+  top: 0;
+}
+
+.slider-new .frame-3 {
+  /* background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/pexels-artem-podrez-5878523-2.png); */
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 920px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width:100%;
+}
+
+.slider-new .vector-8-13 {
+  height: 920px !important;
+  left: 1439px !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 1px !important;
+}
+
+.slider-new .class-3 {
+  left: 15244px !important;
+  top: -19647px !important;
+}
+
+.slider-new .vector-instance {
+  width: 1px !important;
+}
+
+.slider-new .frame-4 {
+  height: 920px;
+  left: 1439px;
+  position: absolute;
+  top: 0;
+  width:100%;
+}
+
+.slider-new .pexels-artem-podrez {
+  height: 920px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1441px;
+}
+
+.slider-new .overlap-group {
+  /* background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/pexels-artem-podrez-5878523-3.png); */
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 920px;
+  position: relative;
+  width: 1441px;
+}
+
+.slider-new .class-4 {
+  left: 1439px !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.slider-new .frame-5 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  position: absolute;
+  top: 273px;
+}
+
+.slider-new .overlap-group-wrapper {
+  height: 920px;
+  left: 1350px;
+  position: absolute;
+  top: 0;
+  width:100%;
+}
+
+.slider-new .frame-6 {
+  height: 920px;
+  position: absolute;
+  top: 0;
+}
+
+.slider-new .class-5 {
+  left: 9484px !important;
+  top: -17031px !important;
+}
+
+.slider-new .vector-8-4-wrapper {
+  /* background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/pexels-artem-podrez-5878523-4.png); */
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 920px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width:100%;
+}
+
+.slider-new .vector-8-14 {
+  height: 920px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width:100% !important;
+}
+
+.slider-new .frame-482706 {
+  background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/pexels-artem-podrez-5878523-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: -4319px;
+}
+
+.slider-new .frame-482704 {
+  background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/pexels-artem-podrez-5878523-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: -1350px;
+}
+
+.slider-new .frame-482703 {
+  left: 0;
+}
+
+.slider-new .frame-482705 {
+  background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/pexels-artem-podrez-5878523-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: -2879px;
+}
+
+.slider-new .property-1-frame-482706 {
+  left: -2879px;
+  width: 2879px;
+}
+
+.slider-new .property-1-frame-482704 {
+  left: 0;
+  width:100%;
+}
+
+.slider-new .property-1-frame-482703 {
+  left: 1350px;
+  width: 2879px;
+}
+
+.slider-new .property-1-frame-482705 {
+  left: -1439px;
+  width: 2879px;
+}
+
+.slider-new .property-1-1-frame-482706 {
+  left: 0;
+  width:100%;
+}
+
+.slider-new .property-1-1-frame-482704 {
+  background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/pexels-artem-podrez-5878523-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: 2881px;
+  width:100%;
+}
+
+.slider-new .property-1-1-frame-482703 {
+  background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/pexels-artem-podrez-5878523-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: 4319px;
+  width:100%;
+}
+
+.slider-new .property-1-1-frame-482705 {
+  background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/pexels-artem-podrez-5878523-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  left: 1441px;
+  width:100%;
+}
+
+.slider-new .overlap.property-1-frame-482706 .frame-5 {
+  left: 1723px;
+}
+
+.slider-new .overlap.property-1-frame-482704 .frame-5 {
+  left: 284px;
+}
+
+.slider-new .overlap.property-1-frame-482703 .frame-5 {
+  left: 1723px;
+}
+
+.slider-new .overlap.property-1-frame-482705 .frame-5 {
+  left: 1723px;
+}

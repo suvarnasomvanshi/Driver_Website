@@ -1,0 +1,108 @@
+.client-logos {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width:100%;
+  }
+  
+  .client-logos .image {
+    height: 64px;
+    position: relative;
+  }
+  
+  .client-logos .image-2 {
+    height: 64px;
+    object-fit: cover;
+    position: relative;
+  }
+  
+  .client-logos .image-3 {
+    height: 64px;
+    object-fit: cover;
+    position: relative;
+    width: 64px;
+  }
+  
+  .client-logos .image-4 {
+    height: 64px;
+    object-fit: cover;
+    position: relative;
+  }
+  
+  .client-logos .image-5 {
+    height: 64px;
+    position: relative;
+  }
+  
+  .client-logos .image-6 {
+    height: 64px;
+    position: relative;
+  }
+  
+  .client-logos .property-1-4-default {
+    object-fit: cover;
+    width: 202.53px;
+  }
+  
+  .client-logos .property-1-4-variant-2 {
+    width: 140.99px;
+  }
+  
+  .client-logos .property-1-5-default {
+    width: 100.73px;
+  }
+  
+  .client-logos .property-1-5-variant-2 {
+    width: 124.03px;
+  }
+  
+  .client-logos .property-1-6-default {
+    width: 177.3px;
+  }
+  
+  .client-logos .property-1-6-variant-2 {
+    width: 103.05px;
+  }
+  
+  .client-logos .property-1-7-default {
+    object-fit: cover;
+    width: 64.64px;
+  }
+  
+  .client-logos .property-1-7-variant-2 {
+    width: 131.96px;
+  }
+  
+  .client-logos .property-1-8-default {
+    object-fit: cover;
+    width: 129.97px;
+  }
+  
+  .client-logos .property-1-8-variant-2 {
+    width: 64px;
+  }
+
+  .client-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .client-logos img {
+    opacity: 0;
+    margin: 8px; /* Adjust margin as needed */
+    transition: opacity 0.5s ease-in-out;
+    box-sizing: border-box; /* Ensure that margin is included in the width */
+    display: block; /* Center horizontally within its div */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .client-logos img.fade-in {
+    opacity: 1;
+  }
+  
+  .client-logos img.fade-out {
+    opacity: 0;
+  }

@@ -1,0 +1,74 @@
+.metric {
+  align-items: center;
+  transition: background 0.5s ease;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  height: 276px;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+  position: relative;
+  cursor: pointer;
+  width: 400px;
+}
+
+.metric .frame-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.metric .element-m {
+  color: rgba(0, 30, 65, 1);
+  transition: color 0.5s ease;
+  font-family: "Helvetica Neue-Medium", Helvetica;
+  font-size: 64px;
+  font-weight: 500;
+  letter-spacing: 1.28px;
+  line-height: 96px;
+  margin-top: -1px;
+  position: relative;
+  width: 312px;
+}
+
+.metric .patient-records {
+  align-self: stretch;
+  color: rgba(109, 116, 122, 1);
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing:0.2px;
+  line-height:150%;
+  position: relative;
+}
+
+.metric .rectangle-6 {
+  align-self: stretch;
+  background-color: #2ba39c;
+  height: 5px;
+  position: relative;
+  width: 100%;
+}
+
+.logistic_card_hover {
+  transition: all 0.3s ease; /* You can adjust the duration and timing function as needed */
+}
+
+.logistic_card_hover:hover {
+  background: linear-gradient(180deg, rgba(52.68, 148.75, 76.17, 0.1) 16.15%, rgba(82.45, 111.36, 132.81, 0.1) 100%);
+  /* transform: scale(1.05); */
+}
+
+.metric:hover .element-m {
+  color: rgba(43, 105, 151, 1);
+}
+
+.metric:hover .patient-records {
+  color:rgba(60, 64, 67, 1);
+}

@@ -1,0 +1,298 @@
+.slider-v {
+  position: relative;
+  width:100%;
+}
+
+.slider-v .overlap-group-2 {
+  position: relative;
+}
+
+.slider-v .diffuser {
+  background-color: #000000;
+  height: 682px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width:100%;
+}
+
+.slider-v .slider-component {
+  /* background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/pexels-artem-podrez-5878523-1.png); */
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 682px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width:100%;
+}
+
+.slider-v .img {
+  height: 682px;
+  /* left: 1350px; */
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width:100%;
+}
+
+.slider-v .pexels-artem-podrez-2 {
+  height: 682px;
+  /* left: 2880px; */
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width:100%;
+}
+
+.slider-v .pexels-artem-podrez-3 {
+  height: 682px;
+  left: 4320px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width:100%;
+}
+
+.slider-v .frame-wrapper {
+  background: linear-gradient(180deg, rgb(34.27, 104.12, 51.35) 16.15%, rgb(46.29, 71.56, 90.31) 100%);
+  height: 920px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width:100%;
+}
+
+.slider-v .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 284px;
+  position: relative;
+  top: 273px;
+}
+
+.slider-v .text-wrapper {
+  color: #ffffff;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 60px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.slider-v .p {
+  color: #ffffff;
+  font-family: "HelveticaNeue-Regular", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing:0.4px;
+  line-height: 150%;
+  position: relative;
+  text-align: center;
+  width: 872px;
+}
+
+.slider-v .large-button-instance {
+  left: 600px !important;
+  position: absolute !important;
+  top: 471px !important;
+}
+
+.slider-v .content-n-CTA {
+  display: inline-flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.slider-v .frame-8 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+}
+
+.slider-v .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-size: 84px;
+  font-weight: 700;
+  letter-spacing: 0.84px;
+  line-height: 84px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.slider-v .frame-9 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.slider-v .trusted-by {
+  color: transparent;
+  font-family: "Helvetica Neue-Bold", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 60px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.slider-v .span {
+  color: #ffffff;
+}
+
+.slider-v .text-wrapper-3 {
+  color: #146dfa;
+}
+
+.slider-v .instance-node {
+  flex: 0 0 auto !important;
+}
+
+.slider-v .frame-482671 {
+  display: flex !important;
+  flex: 0 0 auto !important;
+  width: 262px !important;
+}
+
+.slider-v .component-2 {
+  height: 48px !important;
+  position: relative !important;
+  width: 48px !important;
+}
+
+.slider-v .frame-instance {
+  white-space: unset !important;
+  width: 186px !important;
+}
+
+.slider-v .slider-instance {
+  /* left: 910px !important; */
+  position: absolute !important;
+  top: 647px !important;
+}
+
+.slider-v .slider-new-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.slider-v .metrics-left {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 0;
+  position: absolute;
+  top: 183px;
+}
+
+.slider-v .vector-2 {
+  height: 297px;
+  left: -10px;
+  position: absolute;
+  top: 640px;
+  width:100%;
+}
+
+.slider-v .slider-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 8px;
+  left: 684px;
+  position: absolute;
+  top: 651px;
+}
+
+.slider-v .ellipse-5 {
+  background-color: rgba(20, 109, 250, 1);
+  border-radius: 4px;
+  height: 8px;
+  position: relative;
+  width: 8px;
+}
+
+.slider-v .ellipse-6 {
+  background-color: #ffffffbf;
+  border-radius: 4px;
+  height: 8px;
+  position: relative;
+  width: 8px;
+}
+
+.slider-v.green {
+  background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/vector-5-2.svg);
+  background-size: 100% 100%;
+  height: 920px;
+}
+
+.slider-v.static {
+  background-color:rgba(241, 247, 249, 1);
+  height: 682px;
+  overflow: hidden;
+}
+
+.slider-v.animation-1 {
+  background-color: rgba(241, 247, 249, 1);
+  height: 682px;
+}
+
+.slider-v.green .overlap-group-2 {
+  height: 920px;
+}
+
+.slider-v.static .overlap-group-2 {
+  background-image: url(https://cdn.animaapp.com/projects/64e8772352986c5d15a0377d/releases/65258581d0b8c0b30f5bfba1/img/pexels-artem-podrez-5878523-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 810px;
+}
+
+.slider-v.animation-1 .overlap-group-2 {
+  height: 682px;
+}
+
+.slider-v.green .content-n-CTA {
+  align-items: center;
+  gap: 56px;
+  left: 284px;
+  top: 163px;
+}
+
+.slider-v.static .content-n-CTA {
+  align-items: center;
+  gap: 56px;
+  left: 284px;
+  top: 163px;
+}
+
+.slider-v.animation-1 .content-n-CTA {
+  align-items: flex-start;
+  gap: 12px;
+  left: 0;
+  top: 183px;
+}

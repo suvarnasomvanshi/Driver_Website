@@ -1,0 +1,50 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="20" fill="#E5E5E5"/>
+<g id="Product Pages">
+<path d="M-12334 -4725C-12334 -4726.1 -12333.1 -4727 -12332 -4727H6123C6124.1 -4727 6125 -4726.1 6125 -4725V6766C6125 6767.1 6124.11 6768 6123 6768H-12332C-12333.1 6768 -12334 6767.1 -12334 6766V-4725Z" fill="#656565"/>
+<g id="SLIMS" clip-path="url(#clip0_1_64)">
+<rect width="1366" height="5350" transform="translate(-332 -2309)" fill="white"/>
+<g id="Sections">
+<g id="Frame 482689">
+<rect width="1366" height="2726" transform="translate(-332 -647.395)" fill="white"/>
+<g id="Product Modules">
+<g id="Product Module Card_2">
+<g id="Frame 482701" clip-path="url(#clip1_1_64)" filter="url(#filter0_d_1_64)">
+<rect width="1096" height="480" transform="translate(-48 -233)" fill="white"/>
+<g id="Frame 482710">
+<g id="Frame 482640">
+<g id="Frame 482641">
+<g id="Frame 482635">
+<path id="Vector" d="M8.6 14.6L15.65 7.55L14.25 6.15L8.6 11.8L5.75 8.95L4.35 10.35L8.6 14.6ZM10 20C8.61667 20 7.31667 19.7373 6.1 19.212C4.88333 18.6867 3.825 17.9743 2.925 17.075C2.025 16.175 1.31267 15.1167 0.788 13.9C0.263333 12.6833 0.000666667 11.3833 0 10C0 8.61667 0.262667 7.31667 0.788 6.1C1.31333 4.88333 2.02567 3.825 2.925 2.925C3.825 2.025 4.88333 1.31267 6.1 0.788C7.31667 0.263333 8.61667 0.000666667 10 0C11.3833 0 12.6833 0.262667 13.9 0.788C15.1167 1.31333 16.175 2.02567 17.075 2.925C17.975 3.825 18.6877 4.88333 19.213 6.1C19.7383 7.31667 20.0007 8.61667 20 10C20 11.3833 19.7373 12.6833 19.212 13.9C18.6867 15.1167 17.9743 16.175 17.075 17.075C16.175 17.975 15.1167 18.6877 13.9 19.213C12.6833 19.7383 11.3833 20.0007 10 20Z" fill="#67C380"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<path d="M-12332 -4726H6123V-4728H-12332V-4726ZM6124 -4725V6766H6126V-4725H6124ZM6123 6767H-12332V6769H6123V6767ZM-12333 6766V-4725H-12335V6766H-12333ZM-12332 6767C-12332.6 6767 -12333 6766.55 -12333 6766H-12335C-12335 6767.66 -12333.7 6769 -12332 6769V6767ZM6124 6766C6124 6766.55 6123.55 6767 6123 6767V6769C6124.66 6769 6126 6767.66 6126 6766H6124ZM6123 -4726C6123.55 -4726 6124 -4725.55 6124 -4725H6126C6126 -4726.66 6124.66 -4728 6123 -4728V-4726ZM-12332 -4728C-12333.7 -4728 -12335 -4726.66 -12335 -4725H-12333C-12333 -4725.55 -12332.6 -4726 -12332 -4726V-4728Z" fill="black" fill-opacity="0.1"/>
+</g>
+<defs>
+<filter id="filter0_d_1_64" x="-74" y="-255" width="1148" height="532" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="2" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_1_64"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="12"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_64"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_64" result="shape"/>
+</filter>
+<clipPath id="clip0_1_64">
+<rect width="1366" height="5350" fill="white" transform="translate(-332 -2309)"/>
+</clipPath>
+<clipPath id="clip1_1_64">
+<rect width="1096" height="480" fill="white" transform="translate(-48 -233)"/>
+</clipPath>
+</defs>
+</svg>

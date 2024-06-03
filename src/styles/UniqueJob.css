@@ -1,0 +1,152 @@
+.UniqueJob .heading {
+  color: #fff;
+  text-align: center;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+}
+
+.UniqueJob .sub-header {
+  color: #000;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+}
+
+.UniqueJob .regular-text {
+  color: #3c4043;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.UniqueJob .last-updated-text {
+  color: #4c4b55;
+  font-family: Noto Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0.16px;
+}
+
+.UniqueJob .table-of-content-text {
+  color: #146dfa;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.UniqueJob .sub-header-2 {
+  color: #000;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 0.4px;
+}
+
+#job-submit-button:hover{
+  background-color: #1259CA;
+}
+
+.job-privacy-policy{
+  font-family: 'Noto Sans';
+  font-size: 14px;
+  font-weight: 400 !important;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.reCaptcha-container:hover{
+  cursor: pointer;
+}
+
+.job-form-head{
+  font-family: 'Helvetica Neue-Medium';
+  font-size: 28px;
+  font-weight: 500 !important;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.job-form-subhead{
+  font-family: 'Noto Sans';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #3C4043;
+}
+
+.job-form-label{
+  font-family: 'Helvetica Neue-Medium';
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #08090A !important;
+  cursor: text;
+}
+
+.job-form-input{
+  font-family: 'Noto Sans';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #08090A;
+  border: 1px solid #CED4DA;
+  outline: none;
+}
+
+.job-form-input::placeholder{
+  color: #6D747A !important;
+}
+
+.job-form-input:active{
+  outline: #737678;
+  border: 1px solid #737678 ;
+}
+
+/* role info */
+.role-head1{
+  font-family: 'Helvetica Neue-Medium';
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.role-desc1{
+  font-family: 'Noto Sans-Regular' !important;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: justify;
+}
+
+.role-head2{
+  font-family: 'Helvetica Neue-Medium';
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: left;
+}

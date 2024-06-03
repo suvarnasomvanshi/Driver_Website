@@ -1,0 +1,98 @@
+.slider {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 12px;
+  position: relative;
+}
+
+.slider .ellipse {
+  border-radius: 6px;
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.slider .ellipse-2 {
+  border-radius: 6px;
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.slider .ellipse-3 {
+  border-radius: 6px;
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.slider .ellipse-4 {
+  border-radius: 6px;
+  height: 12px;
+  position: relative;
+  width: 12px;
+}
+
+.slider .one {
+  background-color: #1a91ff;
+}
+
+.slider .three {
+  background-color: #ffffffcc;
+}
+
+.slider .two {
+  background-color: #ffffffcc;
+}
+
+.slider .four {
+  background-color: #ffffffcc;
+}
+
+.slider .property-1-one {
+  background-color: #ffffffcc;
+}
+
+.slider .property-1-three {
+  background-color: #ffffffcc;
+}
+
+.slider .property-1-two {
+  background-color: #1a91ff;
+}
+
+.slider .property-1-four {
+  background-color: #ffffffcc;
+}
+
+.slider .property-1-0-one {
+  background-color: #ffffffcc;
+}
+
+.slider .property-1-0-three {
+  background-color: #1a91ff;
+}
+
+.slider .property-1-0-two {
+  background-color: #ffffffcc;
+}
+
+.slider .property-1-0-four {
+  background-color: #ffffffcc;
+}
+
+.slider .property-1-1-one {
+  background-color: #ffffffcc;
+}
+
+.slider .property-1-1-three {
+  background-color: #ffffffcc;
+}
+
+.slider .property-1-1-two {
+  background-color: #ffffffcc;
+}
+
+.slider .property-1-1-four {
+  background-color: #1a91ff;
+}

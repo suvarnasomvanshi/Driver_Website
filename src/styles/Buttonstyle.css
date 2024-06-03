@@ -1,0 +1,145 @@
+.button {
+    align-items: center;
+    gap: 36px;
+    position: relative;
+  }
+  
+  .button .support {
+    align-items: center;
+    border-radius: 6px;
+    gap: 10px;
+    justify-content: center;
+    padding: 12px 18px;
+    position: relative;
+  }
+  
+  .button .frame-3 {
+    position: relative;
+  }
+  
+  .button .support-2 {
+    color: #ffffff;
+    font-family: "HelveticaNeue-Bold", Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing:0px;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .button .chevron-down {
+    height: 16px;
+    position: relative;
+    width: 16px;
+  }
+  
+  .button.default-small {
+    display: flex;
+    width: 118px;
+  }
+  
+  .button.variant-5 {
+    display: inline-flex;
+  }
+  
+  .button.default-large {
+    display: inline-flex;
+  }
+  
+  .button.default-small-icon {
+    display: inline-flex;
+  }
+  
+  .button.white-large {
+    display: inline-flex;
+  }
+  
+  .button.default-small .support {
+    background-color:rgba(20, 109, 250, 1);
+    display: flex;
+    width: 118px;
+  }
+  
+  .button.variant-5 .support {
+    border: 1px solid;
+    border-color: #ffffff;
+    display: flex;
+    width: 326px;
+  }
+  
+  .button.default-large .support {
+    background-color:rgba(20, 109, 250, 1);
+    display: flex;
+    width: 326px;
+  }
+  
+  .button.default-small-icon .support {
+    background-color: rgba(20, 109, 250, 1);
+    display: inline-flex;
+    flex: 0 0 auto;
+  }
+  
+  .button.white-large .support {
+    background-color: #ffffff;
+    display: flex;
+    width: 326px;
+  }
+  
+  .button.default-small .frame-3 {
+    color: #ffffff;
+    font-family: "HelveticaNeue-Bold", Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing:0px;
+    line-height: normal;
+    margin-top: -1px;
+    width: fit-content;
+  }
+  
+  .button.variant-5 .frame-3 {
+    color: #ffffff;
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1px;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .button.default-large .frame-3 {
+    color: #ffffff;
+    font-family: "HelveticaNeue-Bold", Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing:0px;
+    line-height: normal;
+    margin-top: -1px;
+    width: fit-content;
+  }
+  
+  .button.default-small-icon .frame-3 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 4px;
+  }
+  
+  .button.white-large .frame-3 {
+    color: rgba(0, 30, 65, 1);
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1px;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  

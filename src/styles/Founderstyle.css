@@ -1,0 +1,61 @@
+.founder {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    position: relative;
+    width: 180px;
+  }
+  
+  .founder .mask-group {
+    height: 180px;
+    position: relative;
+    width: 180px;
+  }
+  
+  .founder .frame-2 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 4px;
+    position: relative;
+  }
+  
+  .founder .t-suresh {
+    color:#3C4043;
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight:400;
+    /* letter-spacing: 0.4px; */
+    /* line-height: 150%; */
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    /* text-align: center; */
+    cursor: text;
+  }
+  
+  .founder .managing-director {
+    color:rgba(109, 116, 122, 1);
+    /* font-family: "NotoSans-Regular", Helvetica; */
+    font-size:16px;
+    font-style: normal;
+    font-weight:400;
+    /* letter-spacing:0px; */
+    /* line-height: 150%; */
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    /* text-align: center; */
+  }
+  

@@ -1,0 +1,14 @@
+.product-slider {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  justify-content: flex-end;
+  position: relative;
+  width: 120px;
+}
+
+.product-slider .slider-3 {
+  height: 48px !important;
+  position: relative !important;
+  width: 48px !important;
+}

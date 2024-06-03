@@ -1,0 +1,48 @@
+.large-button {
+    align-items: center;
+    border-radius: 6px;
+    display: flex;
+    gap: 10px;
+    cursor: pointer;
+    justify-content: center;
+    padding: 12px 18px;
+    position: relative;
+    width: 240px;
+  }
+  
+  .large-button .REQUEST-a-DEMO {
+    font-family:"HelveticaNeue";
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    top:3.3px;
+    line-height: 24px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .large-button.outline {
+    border: 1px solid;
+    border-color: #ffffff;
+  }
+  
+  .large-button.solid-white {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #ffffff;
+  }
+  
+  .large-button.solid-blue {
+    background-color: rgba(20, 109, 250, 1);
+  }
+  
+  .large-button.outline .REQUEST-a-DEMO {
+    color: #ffffff;
+    color: #295989;
+  }
+  
+  .large-button.solid-blue .REQUEST-a-DEMO {
+    color: #ffffff;
+  }
+  

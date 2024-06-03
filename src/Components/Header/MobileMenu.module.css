@@ -1,0 +1,95 @@
+.menuItem {
+  position: relative;
+  position: relative;
+  color: #000;
+  font-family: "Rubik";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.36px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+/* li {
+  list-style: none;
+  color: #000;
+} */
+.dropdownicon {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.active > a {
+  color: #81298f;
+}
+.dropdownItem,
+.dropdownMenu,
+.menuItem1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.dropdownItem {
+  flex-direction: row;
+  align-items: center;
+  padding: 0 16px;
+}
+.dropdownMenu {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  font-size: 16px;
+  color: #4c4b55;
+}
+.menuItem2,
+.menucontainer,
+.menucontainer1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.menucontainer,
+.menucontainer1 {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.menucontainer1 {
+  width: 342px;
+  gap: 36px;
+}
+.menucontainer {
+  position: relative;
+  width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: Rubik;
+}
+.active {
+  gap: 36px;
+  display: flex;
+  flex-direction: column;
+}
+.menuItem:hover a div {
+  position: relative;
+  position: relative;
+  color: #81298f;
+  font-family: "Rubik";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: -0.36px;
+}
+@media screen and (max-width: 768px) {
+  .menuItem {
+    font-size: 16px;
+    color: #4c4b55;
+  }
+}

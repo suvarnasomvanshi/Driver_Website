@@ -1,0 +1,42 @@
+.category {
+    align-items: flex-start;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    padding: 10px 12px;
+    position: relative;
+    width: 312px;
+  }
+  
+  .category .all {
+    align-self: stretch;
+    margin-top: -1px;
+    position: relative;
+  }
+  
+  .category.selected {
+    background-color: rgba(235, 237, 240, 1);
+  }
+  
+  .category.default .all {
+    color: rgba(60, 64, 67, 1);
+    font-family:  "NotoSans-Regular", Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight:400;
+    letter-spacing: 0px;
+    line-height: 150%;
+  }
+  
+  .category.selected .all {
+    color: #000000;
+    font-family: "HelveticaNeue-Medium", Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0.32px;
+    line-height: 150%;
+  }
+  

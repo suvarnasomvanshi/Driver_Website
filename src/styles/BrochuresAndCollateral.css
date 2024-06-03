@@ -1,0 +1,130 @@
+.BrochuresAndCollateral .heading {
+  color: #fff;
+  text-align: center;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+}
+
+.BrochuresAndCollateral .sub-heading {
+  color: #fff;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  letter-spacing: 0.64px;
+}
+
+.BrochuresAndCollateral .sub-header {
+  font-family: "NotoSans-Regular", Helvetica;
+  color: #3c4043;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+}
+
+.BrochuresAndCollateral .regular-text {
+  font-family: "NotoSans-Regular", Helvetica;
+  color: #3c4043;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 30px */
+  letter-spacing: 0.4px;
+}
+
+.BrochuresAndCollateral .sub-header-2 {
+  color: #000;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 0.4px;
+}
+
+.BrochuresAndCollateral .location-map {
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.BrochuresAndCollateral .card {
+  display: flex;
+  min-height: 361px;
+  max-width: 312px;
+  width: 100%;
+  padding: 24px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  border-radius: 12px;
+  border: 2px solid #ebedf0;
+  background: #fff;
+  flex-shrink: 0;
+  margin: 24px;
+}
+.BrochuresAndCollateral .card_title {
+  text-align: center;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 150%;
+  letter-spacing: 0.32px;
+}
+
+.BrochuresAndCollateral .card-regular-text {
+  color: var(--Grey-10, #6d747a);
+  text-align: center;
+  font-family: Noto Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 21px */
+}
+
+.BrochuresAndCollateral .button-text {
+  color: #146dfa;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.BrochuresAndCollateral .card-light-button {
+  display: flex;
+  width: 264px;
+  height: 48px;
+  padding: 12px 18px;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  border: 1px solid #146dfa;
+}
+
+.BrochuresAndCollateral .card_dark_button {
+  display: flex;
+  width: 264px;
+  height: 48px;
+  padding: 12px 18px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  background: #146dfa;
+}
+
+/*  */
+
+/* .BrochuresAndCollateral > .container{
+  width: 100%;
+  background-color: yellow;
+} */

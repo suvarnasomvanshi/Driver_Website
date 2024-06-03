@@ -1,0 +1,329 @@
+.footer {
+  background-color: #393c3f;
+  height: 536px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.frame-50 {
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 452px;
+  width: 100%;
+}
+
+.line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: -1px;
+  width: 100%;
+}
+
+.element-suvarna {
+  color: #ffffff;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 38%;
+  letter-spacing: 0px;
+  line-height: 150%;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.frame-51 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 45%;
+  position: absolute;
+  top: 150px;
+}
+
+.text-wrapper-17 {
+  color: #ffffff;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-52 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.text-wrapper-18 {
+  color: #ffffff;
+  font-family: "NotoSans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 150%;
+  margin-top: -1px;
+  cursor: pointer;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+#icon {
+  font-size: 28px;
+  color: white;
+  cursor: pointer;
+}
+.social-icons {
+  display: flex;
+  gap: 1.25rem;
+}
+.text-wrapper-19 {
+  color: #ffffff;
+  /* font-family: "NotoSans";
+   */
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  cursor: pointer;
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 150%;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-53 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 75%;
+  position: absolute;
+  top: 150px;
+}
+
+.frame-54 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.frame-55 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 3%;
+  position: absolute;
+  top: 150px;
+}
+
+.frame-56 {
+  height: 42px;
+  position: relative;
+  width: 528px;
+}
+
+.img-2 {
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 16px;
+}
+
+.text-wrapper-20 {
+  color: #ffffff;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 42px;
+  left: 28px;
+  letter-spacing: 0px;
+  line-height: 150%;
+  position: absolute;
+  top: -1px;
+  width: 500px;
+}
+
+.frame-57 {
+  height: 24px;
+  position: relative;
+  width: 144px;
+}
+
+.text-wrapper-21 {
+  color: #ffffff;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 28px;
+  letter-spacing: 0px;
+  line-height: 150%;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.suvarna-logo-footer {
+  height: 48px;
+  left: 60px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 219px;
+}
+
+.searching {
+  text-decoration: none;
+  border-radius: 6px;
+  display: flex;
+  padding: 0.75rem 11.5rem 0.75rem 1.5rem;
+  align-items: center;
+  color: white;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+  border: none;
+  height: 48px;
+  overflow: hidden;
+  background-color: transparent;
+  margin-left: 25.6px;
+  padding: 2%;
+  outline: none;
+  position: absolute;
+  width: 460px;
+}
+
+.frame-58 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 16px;
+  border: none;
+  left: 34.5%;
+  position: absolute;
+  top: 38px;
+}
+
+.frame-59 {
+  border: 1px solid;
+  border-color: rgba(235, 237, 240, 1);
+  border-radius: 6px;
+  height: 48px;
+  overflow: hidden;
+  position: relative;
+  width: 505px;
+}
+
+.frame-60 {
+  align-items: center;
+  display: inline-flex;
+  gap: 16px;
+  left: 14px;
+  position: relative;
+  top: 12px;
+}
+
+.search {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.text-wrapper-22 {
+  color: #c2c2c2;
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 150%;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-61 {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 48px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 12px 24px;
+  position: relative;
+  width: 127px;
+}
+
+.text-wrapper-23 {
+  color: rgba(43, 105, 151, 1);
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.tooltip-container {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip-text {
+  visibility: hidden;
+  width: 120px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.tooltip-container:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
+}
+
+#search-input{
+  /* background: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20' style='fill:#FFFFFF;'><path d='M20.5 18.7L15.8 14C15.3 13.5 14.7 13.3 14 13.3C15.1 11.8 15.8 10 15.8 8C15.8 3.6 12.2 0 7.8 0S0 3.6 0 7.8s3.6 7.8 7.8 7.8c2 0 3.8-0.8 5.1-2.1l4.7 4.7L20.5 18.7zM2 7.8C2 4.1 4.1 2 7.8 2S13.6 4.1 13.6 7.8c0 1.6-0.6 3-1.6 4.1l5.4 5.4c0.4 0.4 0.9 0.6 1.5 0.6 1.2 0 2.2-1 2.2-2.2s-1-2.2-2.2-2.2c-0.6 0-1.1 0.2-1.5 0.6L11.9 8.8c-1.1-1-2.5-1.6-4.1-1.6C4.1 2 2 4.1 2 7.8z'></path></svg>") no-repeat scroll 7px 7px; */
+  /* padding-left: 30px; */
+  outline: none;
+}

@@ -1,0 +1,20 @@
+.logo-header {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  position: relative;
+}
+
+.logo-header .suvarna-s {
+  height: 36px;
+  object-fit: cover;
+  position: relative;
+  width: 26.1px;
+}
+
+.logo-header .suvarna-logo-header {
+  height: 36px;
+  object-fit: cover;
+  position: relative;
+  width: 131.76px;
+}

@@ -1,0 +1,58 @@
+.input-label-head{
+    font-family: 'Helvetica Neue-Medium';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    cursor: text;
+}
+
+.partner-card{
+    padding:36px 24px 36px 24px;
+    border-radius: 12px;
+    border: 2px solid #F1F7F9;
+    height: 293px !important;
+    width: 312px !important;
+    /* margin: 0px 10px; */
+}
+
+.partner-card .card-head{
+    font-family: 'Helvetica Neue-Medium' !important;
+    font-size: 24px;
+    font-weight: 550 !important ;
+    line-height: 29px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    /* color: red; */
+}
+
+.partner-card .card-subtext{
+    font-family: 'Noto Sans';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 15px;
+}
+
+button.join-now-button{
+    width: 240px;
+    height: 48px;
+    padding: 12px, 18px, 12px, 18px;
+    border-radius: 6px;
+    border: 1px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Helvetica Neue-Medium';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #2B6997;
+}
+
+button.join-now-button:hover{
+    background-color: #F8F9FA;
+}

@@ -1,0 +1,125 @@
+.blogs .blogs_header {
+  color: var(--Grey-05, #3c4043);
+  font-family: "HelveticaNeue-Bold", Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+}
+
+.blogs .blogs_regular_text {
+  color: var(--Grey-05, #3c4043);
+  font-family: "HelveticaNeue-Bold", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.blogs .gradient_card_header {
+  color: var(--Black, #08090a);
+  font-family: "HelveticaNeue-Bold", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+}
+
+.blogs .gradient_card {
+  background: var(
+    --linear-530,
+    linear-gradient(
+      145deg,
+      rgba(57, 208, 94, 0.3) 8.97%,
+      rgba(70, 144, 199, 0.3) 63.5%
+    )
+  );
+}
+
+.blogs .other_blog_headers {
+  color: var(--Grey-05, #3c4043);
+  font-family: "HelveticaNeue-Bold", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+}
+
+.blogs .other_blog_regular_text {
+  color: var(--Grey-10, #6d747a);
+  font-family: "HelveticaNeue-Bold", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.gradient-div {
+  background: var(
+    --linear-530,
+    linear-gradient(
+      145deg,
+      rgba(57, 208, 94, 0.3) 8.97%,
+      rgba(70, 144, 199, 0.3) 63.5%
+    )
+  );
+}
+
+.gradient-div-header {
+  color: var(--Black, #08090a);
+  font-family: "HelveticaNeue-Bold", Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+}
+
+.gradient-div-header-blue {
+  color: var(--Blue-Primary, #146dfa);
+  font-family: "HelveticaNeue-Bold", Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%;
+}
+
+.gradient-div-button {
+  display: flex;
+  width: 118px;
+  height: 48px;
+  padding: 12px 18px;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  font-family: "HelveticaNeue-Bold", Helvetica;
+  background: var(--Blue-Primary, #146dfa);
+}
+
+.gradient-div-regular-text {
+  color: var(--Grey-05, #3c4043);
+  font-family: "HelveticaNeue-Bold", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 21px */
+}
+
+.gradient-div-regular-text-blue {
+  color: var(--Blue-Primary, #146dfa);
+  font-family: "HelveticaNeue-Bold", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+
+.related-article {
+  color: var(--Black, #08090a);
+  font-family: "HelveticaNeue-Bold", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+}

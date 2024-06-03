@@ -1,0 +1,515 @@
+.integration-logo {
+    height: 48px;
+    position: relative;
+  }
+  
+  .integration-logo .image {
+    left: 0;
+    position: absolute;
+  }
+  
+  .integration-logo.dia-tek {
+    width: 272px;
+  }
+  
+  .integration-logo.e-verlife {
+    width: 272px;
+  }
+  
+  .integration-logo.pos2 {
+    width: 272px;
+  }
+  
+  .integration-logo.med-synapse {
+    width: 272px;
+  }
+  
+  .integration-logo.adonis {
+    width: 272px;
+  }
+  
+  .integration-logo.ANIDS {
+    width: 272px;
+  }
+  
+  .integration-logo.two-decho {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/6535b42c30c06f373d03571e/img/image-120.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    width: 48px;
+  }
+  
+  .integration-logo.diatron {
+    width: 272px;
+  }
+  
+  .integration-logo.diesse {
+    width: 272px;
+  }
+  
+  .integration-logo.paytm {
+    width: 151px;
+  }
+  
+  .integration-logo.a-ayush {
+    width: 272px;
+  }
+  
+  .integration-logo.biomerieux {
+    width: 272px;
+  }
+  
+  .integration-logo.CGE-centricity {
+    width: 272px;
+  }
+  
+  .integration-logo.c-tscan {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/6535b42c30c06f373d03571e/img/image-115@2x.png);
+    background-size: 100% 100%;
+    width: 86px;
+  }
+  
+  .integration-logo.MS-dynamics-NAV {
+    width: 272px;
+  }
+  
+  .integration-logo.pos1 {
+    width: 272px;
+  }
+  
+  .integration-logo.focus {
+    width: 272px;
+  }
+  
+  .integration-logo.biorad {
+    width: 272px;
+  }
+  
+  .integration-logo.radspa {
+    width: 272px;
+  }
+  
+  .integration-logo.alifax {
+    width: 272px;
+  }
+  
+  .integration-logo.GEMS {
+    width: 272px;
+  }
+  
+  .integration-logo.acon {
+    width: 272px;
+  }
+  
+  .integration-logo.xray {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/6535b42c30c06f373d03571e/img/image-118.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    width: 54px;
+  }
+  
+  .integration-logo.SAP {
+    width: 272px;
+  }
+  
+  .integration-logo.oracle {
+    width: 272px;
+  }
+  
+  .integration-logo.abott {
+    width: 272px;
+  }
+  
+  .integration-logo.agappe {
+    width: 272px;
+  }
+  
+  .integration-logo.gmail {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/6535b42c30c06f373d03571e/img/image-123.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    width: 48px;
+  }
+  
+  .integration-logo.pay-u-money {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/6535b42c30c06f373d03571e/img/image-103.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    width: 272px;
+  }
+  
+  .integration-logo.aspen {
+    width: 272px;
+  }
+  
+  .integration-logo.veckman {
+    width: 272px;
+  }
+  
+  .integration-logo.whats-app {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/6535b42c30c06f373d03571e/img/image-121.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    width: 48px;
+  }
+  
+  .integration-logo.biosystems {
+    width: 272px;
+  }
+  
+  .integration-logo.MR-iscan {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/6535b42c30c06f373d03571e/img/image-116.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    width: 54px;
+  }
+  
+  .integration-logo.razorpay {
+    width: 272px;
+  }
+  
+  .integration-logo.tally {
+    width: 272px;
+  }
+  
+  .integration-logo.SMS {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/6535b42c30c06f373d03571e/img/image-122.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    width: 64px;
+  }
+  
+  .integration-logo.MS-dynamics-AX {
+    width: 272px;
+  }
+  
+  .integration-logo.arkray {
+    width: 272px;
+  }
+  
+  .integration-logo.ultrasound {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/6535b42c30c06f373d03571e/img/image-119.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    width: 48px;
+  }
+  
+  .integration-logo.UPI {
+    width: 272px;
+  }
+  
+  .integration-logo.petscan {
+    background-image: url(https://cdn.animaapp.com/projects/6532b4e74ae10547916b42ac/releases/6535b42c30c06f373d03571e/img/image-117.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    width: 74px;
+  }
+  
+  .integration-logo.pos3 {
+    width: 272px;
+  }
+  
+  .integration-logo.accurex {
+    width: 272px;
+  }
+  
+  .integration-logo.alere {
+    width: 272px;
+  }
+  
+  .integration-logo.dia-tek .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 217px;
+  }
+  
+  .integration-logo.e-verlife .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 90px;
+  }
+  
+  .integration-logo.pos2 .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 49px;
+  }
+  
+  .integration-logo.med-synapse .image {
+    height: 48px;
+    top: 0;
+    width: 146px;
+  }
+  
+  .integration-logo.adonis .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 182px;
+  }
+  
+  .integration-logo.ANIDS .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 46px;
+  }
+  
+  .integration-logo.two-decho .image {
+    height: 48px;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.diatron .image {
+    height: 40px;
+    object-fit: cover;
+    top: 4px;
+    width: 240px;
+  }
+  
+  .integration-logo.diesse .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 179px;
+  }
+  
+  .integration-logo.paytm .image {
+    height: 48px;
+    top: 0;
+    width: 129px;
+  }
+  
+  .integration-logo.a-ayush .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 76px;
+  }
+  
+  .integration-logo.biomerieux .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.CGE-centricity .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 137px;
+  }
+  
+  .integration-logo.c-tscan .image {
+    height: 48px;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.MS-dynamics-NAV .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 96px;
+  }
+  
+  .integration-logo.pos1 .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 46px;
+  }
+  
+  .integration-logo.focus .image {
+    height: 48px;
+    top: 0;
+    width: 113px;
+  }
+  
+  .integration-logo.biorad .image {
+    height: 48px;
+    top: 0;
+    width: 177px;
+  }
+  
+  .integration-logo.radspa .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 60px;
+  }
+  
+  .integration-logo.alifax .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.GEMS .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.acon .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 232px;
+  }
+  
+  .integration-logo.xray .image {
+    height: 48px;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.SAP .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 88px;
+  }
+  
+  .integration-logo.oracle .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 85px;
+  }
+  
+  .integration-logo.abott .image {
+    height: 48px;
+    top: 0;
+    width: 159px;
+  }
+  
+  .integration-logo.agappe .image {
+    height: 26px;
+    object-fit: cover;
+    top: 11px;
+    width: 240px;
+  }
+  
+  .integration-logo.gmail .image {
+    height: 48px;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.pay-u-money .image {
+    height: 48px;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.aspen .image {
+    height: 48px;
+    top: 0;
+    width: 162px;
+  }
+  
+  .integration-logo.veckman .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 105px;
+  }
+  
+  .integration-logo.whats-app .image {
+    height: 48px;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.biosystems .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 235px;
+  }
+  
+  .integration-logo.MR-iscan .image {
+    height: 48px;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.razorpay .image {
+    height: 48px;
+    top: 0;
+    width: 171px;
+  }
+  
+  .integration-logo.tally .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 94px;
+  }
+  
+  .integration-logo.SMS .image {
+    height: 48px;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.MS-dynamics-AX .image {
+    height: 48px;
+    top: 0;
+    width: 107px;
+  }
+  
+  .integration-logo.arkray .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 128px;
+  }
+  
+  .integration-logo.ultrasound .image {
+    height: 48px;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.UPI .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 136px;
+  }
+  
+  .integration-logo.petscan .image {
+    height: 48px;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.pos3 .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 48px;
+  }
+  
+  .integration-logo.accurex .image {
+    height: 48px;
+    object-fit: cover;
+    top: 0;
+    width: 176px;
+  }
+  
+  .integration-logo.alere .image {
+    height: 48px;
+    top: 0;
+    width: 57px;
+  }
+  

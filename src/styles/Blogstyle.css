@@ -1,0 +1,154 @@
+.blog {
+    align-items: flex-start;
+    background-color: #ffffff;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 0px 0px 45px;
+    position: relative;
+  }
+  #shareimg:hover{
+    transform: scale(1.1) ;
+    transition: transform 0.3s ease-in-out;
+  }
+  #shareimg{
+    cursor: pointer;
+    z-index: 1;
+    position: relative;
+    left: 85%;
+    top: 50px;}
+  .blog .pexels-thirdman-wrapper {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .blog .pexels-thirdman {
+    border-radius: 16px;
+    height: 208px;
+    position: relative;
+    width: 312px;
+  }
+  
+  .blog .frame-21 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 36px;
+    position: relative;
+  }
+  
+  .blog .frame-22 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 12px;
+    position: relative;
+  }
+  
+  .blog .revolutionising {
+    color:rgba(60, 64, 67, 1);
+    font-family:"HelveticaNeue-Medium", Helvetica;
+    font-size: 16px;
+    font-style:normal;
+    font-weight: 500;
+    letter-spacing:0.32px;
+    line-height: 150%;
+    margin-top: -1px;
+    position: relative;
+    width: 312px;
+  }
+  
+  .blog .frame-23 {
+    align-items: center;
+    display: flex;
+    flex: 0 0 auto;
+    flex-wrap: wrap;
+    gap: 12px 12px;
+    position: relative;
+    width: 312px;
+  }
+  
+  .blog .div-5 {
+    color: rgba(109, 116, 122, 1);
+    font-family: "NotoSans-Regular", Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 150%;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .blog .ellipse-7 {
+    background-color: rgba(109, 116, 122, 1);
+    border-radius: 2px;
+    height: 4px;
+    position: relative;
+    width: 4px;
+  }
+  .blog .text-wrapper-24{
+    color:#3C4043;
+    font-family:"HelveticaNeue";
+    font-size: 1rem;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; 
+letter-spacing: 0.02rem;
+
+  }
+  .blog .frame-24 {
+    height: 20px;
+    position: relative;
+    cursor: pointer;
+    width: 110px;
+  }
+  
+  .blog .text-wrapper-5 {
+    color:rgba(20, 109, 250, 1);
+    font-family: "Helvetica Neue-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    height: 20px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .blog .arrow-right-2 {
+    height: 16px;
+    left: 94px;
+    top: -1.5px;
+    position: absolute;
+    width: 16px;
+  }
+  
+  .blog .property-1-9-default {
+    object-fit: cover;
+  }
+  
+  .blog .property-1-9-variant-4 {
+    transform: scaleX(-1);
+    object-fit: cover;
+  }
+  
+  .blog .property-1-9-variant-2 {
+    transform: scaleX(-1);
+    object-fit: cover;
+  }
+  
+  .blog .property-1-9-variant-3 {
+    transform: scaleX(-1);
+    object-fit: cover;
+  }
+  

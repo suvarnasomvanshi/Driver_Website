@@ -1,0 +1,46 @@
+.menu {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 36px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.menu .blog-2 {
+  position: relative;
+  width: fit-content;
+}
+
+.menu .rectangle-2 {
+  align-self: stretch;
+  border-radius: 20px;
+  height: 2px;
+  position: relative;
+  width: 100%;
+}
+
+.menu .property-1-2-default {
+  color:rgba(109, 116, 122, 1);
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0px;
+  line-height: normal;
+}
+
+.menu .property-1-2-selected {
+  color: rgba(60, 64, 67, 1);
+  font-family: "NotoSans-Regular", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0px;
+  line-height: normal;
+}
+
+.menu .selected {
+  background-color:rgba(20, 109, 250, 1);
+}
